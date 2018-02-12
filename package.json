@@ -1,0 +1,22 @@
+{
+  "name": "keyframes-generator",
+  "productName": "Keyframes generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sunya9 <mugen.xyz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "poi": "^9.6.13",
+    "sass-loader": "^6.0.6"
+  },
+  "scripts": {
+    "dev": "poi"
+  },
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "font-awesome": "^4.7.0",
+    "pretty": "^2.0.0",
+    "vuex": "^3.0.1"
+  }
+}
